@@ -1,6 +1,3 @@
-//const height = document.querySelector("#inputHeight").value;
-//const width = document.querySelector("#inputWidth").value;
-//let colorPicker = document.querySelector("#colorPicker").value;
 let canvas = document.querySelector("#pixelCanvas");
 const button = document.querySelector("[type='submit']");
 
